@@ -1,0 +1,5 @@
+{
+  "name": "MediPattern Tracker",
+  "description": "An AI-powered medical journal and pattern tracker that analyzes patient inputs to track pain, sleep, and mood trends over time.",
+  "requestFramePermissions": []
+}
